@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'IRANSans';
-  src: url('fonts/IRANSans/IRANSansWeb_Medium.eot');
-  src: url('fonts/IRANSans/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'), 
-       url('fonts/IRANSans/IRANSansWeb_Medium.woff2') format('woff2'), 
-       url('fonts/IRANSans/IRANSansWeb_Medium.woff') format('woff'), 
-       url('fonts/IRANSans/IRANSansWeb_Medium.ttf')  format('truetype'),;
+  font-family: 'Sans';
+  src: url('fonts/Sans/SansWeb_Medium.eot');
+  src: url('fonts/Sans/SansWeb_Medium.eot?#iefix') format('embedded-opentype'), 
+       url('fonts/Sans/SansWeb_Medium.woff2') format('woff2'), 
+       url('fonts/Sans/SansWeb_Medium.woff') format('woff'), 
+       url('fonts/Sans/SansWeb_Medium.ttf')  format('truetype'),;
 }
 
 * {
-  font-family: 'IRANSans'!important;
+  font-family: 'Sans'!important;
 }
 
 @media only screen and (max-width: 768px) and (min-width: 531px) {
